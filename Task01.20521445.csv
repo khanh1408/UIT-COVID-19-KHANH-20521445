@@ -1,15 +1,156 @@
-SUM của number,tinh,,,,,,,,,,,,,,,,,,,,
-date,Vĩnh Phúc,TP. Hồ Chí Minh,TP Hồ Chí Minh,Tiền Giang,Phú Thọ,Nghệ An,Long An,Lạng Sơn,Hồ Chí Minh,Hải Dương,Hà Tĩnh,Hà Nội,Hà Nam,Bình Dương,Bệnh viện K cơ sở Tân Triều,Bệnh viện Bệnh Nhiệt đới Trung ương cơ sở Đông Anh,Bắc Ninh,Bắc Kạn,Bắc Giang,,Tổng cộng
-15/06/2021,,90,,,,,,2,,,3,1,,12,,,55,,235,,398
-14/06/2021,,82,,14,,1,,,,,22,4,,4,,,17,1,121,,266
-13/06/2021,,69,26,,1,,,2,,,9,2,,1,,,54,,129,,293
-12/06/2021,,84,,10,,,,1,,,5,,,,,,34,,125,,259
-11/06/2021,,30,,,,,,,18,,8,6,,,,,28,,95,,185
-10/06/2021,,61,,2,,,1,1,,1,5,4,,,,,45,,91,,211
-09/06/2021,,40,,,,,,1,,,3,5,,,1,,35,,43,,128
-08/06/2021,,25,,,,,,5,14,,1,2,,,,1,25,,98,,171
-07/06/2021,,20,,,,,,7,26,,2,1,2,1,1,,29,,122,,211
-06/06/2021,,31,,,,,,,,,5,,,2,,,40,,121,,199
-05/06/2021,2,31,,1,,,,1,,,2,,1,2,1,1,55,,149,,246
-,,,,,,,,,,,,,,,,,,,,0,0
-Tổng cộng,2,563,26,27,1,1,1,20,58,1,65,25,3,22,3,2,417,1,1329,0,2567
+date,tinh,number,
+05/06/2021,Bắc Giang,45,Sáng
+05/06/2021,Bắc Ninh,19,Sáng
+05/06/2021,TP. Hồ Chí Minh,10,Sáng
+05/06/2021,Hà Nam,1,Sáng
+05/06/2021,Bắc Giang,65,Trưa
+05/06/2021,TP. Hồ Chí Minh,15,Trưa
+05/06/2021,Bắc Ninh,8,Trưa
+05/06/2021,Hà Tĩnh,2,Trưa
+05/06/2021,Tiền Giang,1,Trưa
+05/06/2021,Bắc Giang,39,Tối
+05/06/2021,Bắc Ninh,28,Tối
+05/06/2021,TP. Hồ Chí Minh,6,Tối
+05/06/2021,Vĩnh Phúc,2,Tối
+05/06/2021,Bình Dương,2,Tối
+05/06/2021,Lạng Sơn,1,Tối
+05/06/2021,Bệnh viện K cơ sở Tân Triều,1,Tối
+05/06/2021,Bệnh viện Bệnh Nhiệt đới Trung ương cơ sở Đông Anh,1,Tối
+06/06/2021,Bắc Giang,21,Sáng
+06/06/2021,TP. Hồ Chí Minh,10,Sáng
+06/06/2021,Bắc Ninh,8,Sáng
+06/06/2021,Bắc Giang,69,Trưa
+06/06/2021,Bắc Ninh,14,Trưa
+06/06/2021,TP. Hồ Chí Minh,10,Trưa
+06/06/2021,Hà Tĩnh,5,Trưa
+06/06/2021,Bình Dương,2,Trưa
+06/06/2021,Bắc Giang,31,Tối
+06/06/2021,Bắc Ninh,18,Tối
+06/06/2021,TP. Hồ Chí Minh,11,Tối
+07/06/2021,Bắc Giang,24,Sáng
+07/06/2021,Hồ Chí Minh,12,Sáng
+07/06/2021,Bắc Ninh,6,Sáng
+07/06/2021,Hà Nam,2,Sáng
+07/06/2021,Bắc Giang,68,Trưa
+07/06/2021,Hồ Chí Minh,14,Trưa
+07/06/2021,Lạng Sơn,7,Trưa
+07/06/2021,Hà Tĩnh,2,Trưa
+07/06/2021,Hà Nội,1,Trưa
+07/06/2021,Bắc Giang,30,Tối
+07/06/2021,Bắc Ninh,23,Tối
+07/06/2021,TP. Hồ Chí Minh,20,Tối
+07/06/2021,Bình Dương,1,Tối
+07/06/2021,Bệnh viện K cơ sở Tân Triều,1,Tối
+08/06/2021,Bắc Giang,22,Sáng
+08/06/2021,TP. Hồ Chí Minh,15,Sáng
+08/06/2021,Bắc Ninh,6,Sáng
+08/06/2021,Bắc Giang,55,Trưa
+08/06/2021,TP. Hồ Chí Minh,10,Trưa
+08/06/2021,Bắc Ninh,4,Trưa
+08/06/2021,Lạng Sơn,5,Trưa
+08/06/2021,Bệnh viện Bệnh nhiệt đới Trung ương cơ sở Đông Anh,1,Trưa
+08/06/2021,Bắc Giang,21,Tối
+08/06/2021,Bắc Ninh,15,Tối
+08/06/2021,Hồ Chí Minh,14,Tối
+08/06/2021,Hà Nội,2,Tối
+08/06/2021,Hà Tĩnh,1,Tối
+09/06/2021,Bắc Giang,24,Sáng
+09/06/2021,Bắc Ninh,17,Sáng
+09/06/2021,TP. Hồ Chí Minh,20,Trưa
+09/06/2021,Bắc Ninh,6,Trưa
+09/06/2021,Hà Tĩnh,3,Trưa
+09/06/2021,Hà Nội,1,Trưa
+09/06/2021,TP. Hồ Chí Minh,20,Tối
+09/06/2021,Bắc Giang,19,Tối
+09/06/2021,Bắc Ninh,12,Tối
+09/06/2021,Hà Nội,4,Tối
+09/06/2021,Lạng Sơn,1,Tối
+09/06/2021,Bệnh viện K cơ sở Tân Triều,1,Tối
+10/06/2021,TP. Hồ Chí Minh,26,Sáng
+10/06/2021,Bắc Ninh,23,Sáng
+10/06/2021,Bắc Giang,16,Sáng
+10/06/2021,Hà Tĩnh,1,Sáng
+10/06/2021,Bắc Giang,52,Trưa
+10/06/2021,TP. Hồ Chí Minh,15,Trưa
+10/06/2021,Bắc Ninh,10,Trưa
+10/06/2021,Hà Nội,4,Trưa
+10/06/2021,Hà Tĩnh,2,Trưa
+10/06/2021,Lạng Sơn,1,Trưa
+10/06/2021,Hải Dương,1,Trưa
+10/06/2021,Long An,1,Trưa
+10/06/2021,Bắc Giang,23,Tối
+10/06/2021,TP. Hồ Chí Minh,20,Tối
+10/06/2021,Bắc Ninh,12,Tối
+10/06/2021,Tiền Giang,2,Tối
+10/06/2021,Hà Tĩnh,2,Tối
+11/06/2021,Bắc Giang,23,Sáng
+11/06/2021,TP. Hồ Chí Minh,10,Sáng
+11/06/2021,Bắc Ninh,4,Sáng
+11/06/2021,Hà Tĩnh,4,Sáng
+11/06/2021,Bắc Giang,45,Trưa
+11/06/2021,Hồ Chí Minh,18,Trưa
+11/06/2021,Bắc Ninh,9,Trưa
+11/06/2021,Hà Nội,5,Trưa
+11/06/2021,Hà Tĩnh,4,Trưa
+11/06/2021,Bắc Giang,27,Tối
+11/06/2021,TP. Hồ Chí Minh,20,Tối
+11/06/2021,Bắc Ninh,15,Tối
+11/06/2021,Hà Nội,1,Tối
+12/06/2021,Bắc Giang,29,Sáng
+12/06/2021,TP. Hồ Chí Minh,20,Sáng
+12/06/2021,Tiền Giang,10,Sáng
+12/06/2021,Bắc Ninh,8,Sáng
+12/06/2021,Lạng Sơn,1,Sáng
+12/06/2021,Bắc Giang,55,Trưa
+12/06/2021,TP. Hồ Chí Minh,20,Trưa
+12/06/2021,Bắc Ninh,10,Trưa
+12/06/2021,Hà Tĩnh,3,Trưa
+12/06/2021,TP. Hồ Chí Minh,44,Tối
+12/06/2021,Bắc Giang,41,Tối
+12/06/2021,Bắc Ninh,16,Tối
+12/06/2021,Hà Tĩnh,2,Tối
+13/06/2021,Bắc Ninh,34,Tối
+13/06/2021,Bắc Giang,32,Tối
+13/06/2021,TP. Hồ Chí Minh,25,Tối
+13/06/2021,Lạng Sơn,2,Tối
+13/06/2021,Phú Thọ,1,Tối
+13/06/2021,Hà Nội,1,Tối
+13/06/2021,Bắc Giang,64,Trưa
+13/06/2021,TP Hồ Chí Minh,26,Trưa
+13/06/2021,Bắc Ninh,4,Trưa
+13/06/2021,Hà Nội,1,Trưa
+13/06/2021,TP. Hồ Chí Minh,44,Tối
+13/06/2021,Bắc Giang,33,Tối
+13/06/2021,Bắc Ninh,16,Tối
+13/06/2021,Hà Tĩnh,9,Tối
+13/06/2021,Bình Dương,1,Tối
+14/06/2021,TP. Hồ Chí Minh,30,Trưa
+14/06/2021,Bắc Giang,23,Trưa
+14/06/2021,Tiền Giang,14,Trưa
+14/06/2021,Hà Tĩnh,10,Trưa
+14/06/2021,Bắc Ninh,9,Trưa
+14/06/2021,Bình Dương,4,Trưa
+14/06/2021,Bắc Kạn,1,Trưa
+14/06/2021,Bắc Giang,69,Trưa
+14/06/2021,TP. Hồ Chí Minh,26,Trưa
+14/06/2021,Hà Nội,4,Trưa
+14/06/2021,Hà Tĩnh,1,Trưa
+14/06/2021,TP. Hồ Chí Minh,26,Tối
+14/06/2021,Bắc Giang,29,Tối
+14/06/2021,Bắc Ninh,8,Tối
+14/06/2021,Hà Tĩnh,11,Tối
+14/06/2021,Nghệ An,1,Tối
+15/06/2021,Bắc Giang,138,Tối
+15/06/2021,TP. Hồ Chí Minh,38,Tối
+15/06/2021,Bắc Ninh,21,Tối
+15/06/2021,Bình Dương,12,Tối
+15/06/2021,Lạng Sơn,1,Tối
+15/06/2021,Bắc Giang,69,Trưa
+15/06/2021,TP. Hồ Chí Minh,29,Trưa
+15/06/2021,Bắc Ninh,15,Trưa
+15/06/2021,Hà Tĩnh,3,Trưa
+15/06/2021,Lạng Sơn,1,Trưa
+15/06/2021,Hà Nội,1,Trưa
+15/06/2021,Bắc Giang,28,Sáng
+15/06/2021,TP. Hồ Chí Minh,23,Sáng
+15/06/2021,Bắc Ninh,19,Sáng
